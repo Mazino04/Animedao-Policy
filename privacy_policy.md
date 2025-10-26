@@ -3,7 +3,7 @@
 Last Updated: October 26, 2025
 
 ## Introduction
-This Privacy Policy describes how we collect, use, and handle your information when you use Akatsuki. We are committed to protecting your privacy and ensuring transparency about our data practices.
+This Privacy Policy describes how we collect, use, and handle your information when you use Animedao. We are committed to protecting your privacy and ensuring transparency about our data practices.
 
 ## Information We Collect
 
@@ -19,7 +19,7 @@ We use Firebase Crashlytics to collect crash reports and technical information a
 
 Crash reports are associated with your AniList username to allow us to contact you if we need additional information about a specific issue. However, you can choose to anonymize your crash reports through the app settings, which will remove your AniList username from the reports.
 
-Firebase Analytics collects anonymous usage data, including country-level geolocation information. This helps us understand how Akatsuki is being used across different regions.
+Firebase Analytics collects anonymous usage data, including country-level geolocation information. This helps us understand how Animedao is being used across different regions.
 
 ### Third-Party Authentication and Integration
 Animedao allows you to authenticate with the following third-party services:
@@ -32,7 +32,7 @@ While we facilitate these connections, we do not store your login credentials. A
 - [MyAnimeList Privacy Policy Link](https://myanimelist.net/about/privacy_policy)
 
 ### Comments System
-Our in-house comments API uses your AniList authentication token for verification purposes when you initially open Akatsuki. While this token is used for authentication, it is never stored on our servers. We only store:
+Our in-house comments API uses your AniList authentication token for verification purposes when you initially open Animedao. While this token is used for authentication, it is never stored on our servers. We only store:
 - Your AniList ID (for authentication)
 - Profile picture URL
 - Comments you post
