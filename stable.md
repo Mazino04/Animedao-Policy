@@ -1,4 +1,4 @@
-# 6.6.0
+# 6.5.0
 
 - **Bugfixes:**
-  - Fix a crash after watching a video
+  - Testing app updater functionality
