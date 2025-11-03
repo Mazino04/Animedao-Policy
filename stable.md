@@ -1,4 +1,4 @@
-# 3.2.1
+# 6.6.0
 
 - **Bugfixes:**
   - Fix a crash after watching a video
