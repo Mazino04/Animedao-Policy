@@ -1,4 +1,4 @@
-# 6.7.0
+# 6.6.0
 
 ### 1. Fixed App Tab Layout Scrolling Issue
 - **Problem:** The app tab bar layout had a "cliche" effect when scrolling, causing the interface to not apply the correct color to the tab bar
